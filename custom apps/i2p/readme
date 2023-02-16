@@ -1,0 +1,2 @@
+add "routerconsole.allowedHosts=casaos" to router.config
+AppData/i2p/i2pconfig/router.config
